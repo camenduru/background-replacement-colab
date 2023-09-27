@@ -13,8 +13,6 @@
 ## Main Repo
 https://huggingface.co/spaces/Shopify/background-replacement/tree/main
 
-## Paper
-
-## Page
-
 ## Output
+
+![Screenshot 2023-09-27 034041](https://github.com/camenduru/background-replacement-colab/assets/54370274/c63a66b5-3c3c-40eb-8794-b7bc1b4c5a29)
